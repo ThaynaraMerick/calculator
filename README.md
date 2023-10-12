@@ -1,12 +1,15 @@
-# Simple Calculator
+<h1 align="center">Simple Calculator</h1>
 
-![Calculator](https://github.com/ThaynaraMerick/calculator/assets/124617374/deeff285-25e7-4fb8-ae94-8a05f09e8276)
+<p align="center">
+  <img src="https://github.com/ThaynaraMerick/calculator/assets/124617374/3dbd2b3c-94b1-4267-866f-cf5d069c2bb0" alt="Calculator">
+</p>
 
+<h1 align="center">Description</h1>
 
-## Description
+<p align="center">
+  This is a simple Java project for a calculator. The calculator provides basic arithmetic operations, including addition, subtraction, multiplication, and division. It also supports decimal points, clear display, backspace, and changing the sign. I built this with a tutorial but I added other features, the user can now type with the computer keyboard and delete using the backspace.
+</p>
 
-This is a simple Java project for a calculator. The calculator provides basic arithmetic operations, including addition, subtraction, multiplication, and division. It also supports decimal points, clear display, backspace, and changing the sign.
-I built this with a tutorial but I added other features, the user can now type with the computer keyboard and delete using the backspace.
 ## Features
 
 - Addition (+)
@@ -28,6 +31,15 @@ I built this with a tutorial but I added other features, the user can now type w
 
 
 
+<h2 align="center">Demo</h2>
 
-https://github.com/ThaynaraMerick/calculator/assets/124617374/c0684d52-161b-4187-ac1e-3f6cfb581a66
+<p align="center">
+  
+
+
+
+
+
+https://github.com/ThaynaraMerick/calculator/assets/124617374/4b90d7e5-eec8-4848-ad0a-8d11db7a2691
+
 
